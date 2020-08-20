@@ -5,6 +5,7 @@
   *Write one code, run on multiple platforms*
   <br>
   <image src = "meme.jpg" width= "450" height= "266.625">
+ <image src = "flutter.png" width = "242" height ="300">
 
 ### What exactly do I do:
 * 🖥️ Develop applications on Flutter
@@ -15,4 +16,4 @@
 ### Find me over the web🌎
 * 🌐 [Amey Sunu](https://amey.live) I literally gave my site above, if you are still clicking it from here then lol.
 * 🐦 Find me on [Twitter](https://twitter.com/ameysunu), of course there is no twitter bird emoji rofl.
-* 😺 Of course, I am on [Github](https://github.com/ameysunu), If you literally click on this, just to visit me on Github, then think twice.
+* 😺 Of course, I am on [Github](https://github.com/ameysunu), If you literally click on this, just to visit me on Github, then you don't deserve to live.
