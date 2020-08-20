@@ -8,6 +8,7 @@
 
 
 <img align = "right" src = "https://i.ibb.co/vq2ySxG/octocat.png" width = "150" height ="150">
+
 ### What exactly do I do:
 * 🖥️ Develop applications on Flutter
 * 🔬 Build, test and deliver Flutter mobile apps using Codemagic
