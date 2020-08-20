@@ -12,7 +12,7 @@
 * 🖥️ Develop applications on Flutter
 * 🍁 Looking for collaborations on Dart or Swift
 * 🙏 Learning Swift and SwiftUI for watchOS development
-* 💁 Hit me up by a PR or visit [Amey Sunu](https://amey.live)
+* 💁 Hit me up with a PR or visit [Amey Sunu](https://amey.live)
 
 ### Find me over the web🌎
 * 🌐 [Amey Sunu](https://amey.live) I literally gave my site above, if you are still clicking it from here then lol.
