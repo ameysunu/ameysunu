@@ -6,5 +6,8 @@
   <br>
   <image src = "meme.jpg" width= "450" height= "266.625">
 
-## Things that I do:
-* Develop
+### What exactly do I do:
+* 🖥️ Develop applications on Flutter
+* 🍁 Looking for collaborations on Dart or Swift
+* 🙏 Learning Swift and SwiftUI for watchOS development
+* 💁 Hit me up by a PR or visit Amey Sunu[Amey Sunu](https://amey.live)
