@@ -9,7 +9,8 @@
 
 
 ### What exactly do I do:
-* 🖥️ Develop applications on Flutter
+* 🖥️ Develop applications on Flutter                                                 ![octocat](https://user-images.githubusercontent.com/48415436/90814522-eb5f1080-e331-11ea-8dc6-b2b51a11308c.png)
+
 * 🔬 Build, test and deliver Flutter mobile apps using Codemagic
 * 🍁 Looking for collaborations on Dart or Swift
 * 🙏 Learning Swift and SwiftUI for watchOS development
