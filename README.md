@@ -5,7 +5,6 @@
   *Write one code, run on multiple platforms*
   <br>
   <image src = "meme.jpg" width= "450" height= "266.625">
- <image src = "flutter.png" width = "242" height ="300">
 
 ### What exactly do I do:
 * 🖥️ Develop applications on Flutter
