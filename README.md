@@ -10,9 +10,11 @@
 
 ### What exactly do I do:
 * 🖥️ Develop applications on Flutter
+* 🔬 Build, test and deliver Flutter mobile apps using Codemagic
 * 🍁 Looking for collaborations on Dart or Swift
 * 🙏 Learning Swift and SwiftUI for watchOS development
 * 💁 Hit me up with a PR or visit [Amey Sunu](https://amey.live)
+
 
 ### Find me over the web🌎
 * 🌐 [Amey Sunu](https://amey.live) I literally gave my site above, if you are still clicking it from here then lol.
