@@ -5,7 +5,6 @@
   *Write one code, run on multiple platforms*
   <br>
 ![meme](https://user-images.githubusercontent.com/48415436/90749865-ac52a000-e2dc-11ea-9141-ca27d78eb19c.jpg) 
-![flutterlogo](https://user-images.githubusercontent.com/48415436/90750823-0a33b780-e2de-11ea-9065-04d9eb41781c.png)
 
 
 
