@@ -6,4 +6,5 @@
   <br>
   <image src = "meme.jpg" width= "450" height= "266.625">
 
-
+## Things that I do:
+* Develop
