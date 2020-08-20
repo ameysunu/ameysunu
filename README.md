@@ -4,7 +4,8 @@
 
   *Write one code, run on multiple platforms*
   <br>
-  <image src = "meme.jpg" width= "450" height= "266.625">
+![meme](https://user-images.githubusercontent.com/48415436/90749072-aad4a800-e2db-11ea-9104-d20caf5e949e.jpg)
+
 
 ### What exactly do I do:
 * 🖥️ Develop applications on Flutter
