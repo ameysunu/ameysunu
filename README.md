@@ -4,7 +4,7 @@
 
   *Write one code, run on multiple platforms*
   <br>
-![meme](https://user-images.githubusercontent.com/48415436/90749072-aad4a800-e2db-11ea-9104-d20caf5e949e.jpg)
+![meme](https://user-images.githubusercontent.com/48415436/90749072-aad4a800-e2db-11ea-9104-d20caf5e949e.jpg = 450x266.65)
 
 
 ### What exactly do I do:
