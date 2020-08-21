@@ -6,9 +6,6 @@
   <br>
 ![meme](https://user-images.githubusercontent.com/48415436/90749865-ac52a000-e2dc-11ea-9141-ca27d78eb19c.jpg) 
 
-
-<img align = "right" src = "https://i.ibb.co/vkx2Kv2/octocat.png" width = "150" height ="150">
-
 ### What exactly do I do:
 * 🖥️ Develop applications on Flutter
 * 🔬 Build, test and deliver Flutter mobile apps using Codemagic
