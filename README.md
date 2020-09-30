@@ -5,14 +5,14 @@
   <!-- *Write once, deploy on multiple platforms*
   <br>
 ![meme](https://user-images.githubusercontent.com/48415436/90749865-ac52a000-e2dc-11ea-9141-ca27d78eb19c.jpg)  -->
-*✈️ Favorite go-to place is Documentation*
-<br>
+
 ![work](https://user-images.githubusercontent.com/48415436/94673880-0dc84e80-0320-11eb-9700-e6a4be04e5fc.jpg)
 
 ### What exactly do I do:
 * 🖥️ Develop applications on Flutter
 * 🔬 Build, test and deliver Flutter mobile apps using Codemagic
 * 🍁 Looking for collaborations on Dart or Swift
+* ✈️ Favorite travel destination is Documentation
 * 🙏 Learning Swift and SwiftUI for watchOS development
 * 💁 Hit me up with a PR or visit [Amey Sunu](https://amey.live)
 
