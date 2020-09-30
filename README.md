@@ -19,4 +19,4 @@
 * 🐦 Find me on [Twitter](https://twitter.com/ameysunu), of course there is no twitter bird emoji smh.
 * 😺 Of course, I am on [Github](https://github.com/ameysunu), If you literally click on this, just to visit me on Github, then good luck to you.
 
-[![Amey's github stats](https://github-readme-stats.vercel.app/api?username=ameysunu&&show_icons=true&bg_color=FFFFFF&title_color=63409E&icon_color=FF8964)](https://github.com/anuraghazra/github-readme-stats)
+[![Amey's github stats](https://github-readme-stats.vercel.app/api?username=ameysunu&&show_icons=true&bg_color=FFFFFF&title_color=63409E&icon_color=FF8964)](https://amey.live)
