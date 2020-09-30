@@ -15,6 +15,8 @@
 
 
 ### Find me over the web🌎
-* 🌐 [Amey Sunu](https://amey.live) I literally gave my site above, if you are still clicking it from here then lol.
-* 🐦 Find me on [Twitter](https://twitter.com/ameysunu), of course there is no twitter bird emoji rofl.
-* 😺 Of course, I am on [Github](https://github.com/ameysunu), If you literally click on this, just to visit me on Github, then you don't deserve to live.
+* 🌐 [Amey Sunu](https://amey.live) I literally gave my site above, if you are still clicking it from here then wow.
+* 🐦 Find me on [Twitter](https://twitter.com/ameysunu), of course there is no twitter bird emoji smh.
+* 😺 Of course, I am on [Github](https://github.com/ameysunu), If you literally click on this, just to visit me on Github, then good luck to you.
+
+[![Amey's github stats](https://github-readme-stats.vercel.app/api?username=ameysunu)](https://github.com/anuraghazra/github-readme-stats)
