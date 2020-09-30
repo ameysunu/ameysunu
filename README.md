@@ -2,9 +2,10 @@
 
 ### I'm a human and I make native mobile apps for both Android and iOS.
 
-  *Write once, deploy on multiple platforms*
+  <!-- *Write once, deploy on multiple platforms*
   <br>
-![meme](https://user-images.githubusercontent.com/48415436/90749865-ac52a000-e2dc-11ea-9141-ca27d78eb19c.jpg) 
+![meme](https://user-images.githubusercontent.com/48415436/90749865-ac52a000-e2dc-11ea-9141-ca27d78eb19c.jpg)  -->
+![work](https://user-images.githubusercontent.com/48415436/94673406-59c6c380-031f-11eb-941d-3e98402ef289.jpg)
 
 ### What exactly do I do:
 * 🖥️ Develop applications on Flutter
