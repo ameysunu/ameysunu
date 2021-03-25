@@ -13,7 +13,7 @@
 * 🔬 Build, test and deliver Flutter mobile apps using Codemagic
 * 🍁 Looking for collaborations on Dart or Swift
 * ✈️ Favorite travel destination is Documentation
-* 🙏 Learning Swift and SwiftUI for watchOS development
+* 🙏 Learning React and Redux with TypeScript
 * 💁 Hit me up with a PR or visit [Amey Sunu](https://amey.live)
 
 
