@@ -14,11 +14,11 @@
 * 🍁 Looking for collaborations on Dart or Swift
 * ✈️ Favorite travel destination is Documentation
 * 🙏 Learning React and Redux with TypeScript
-* 💁 Hit me up with a PR or visit [Amey Sunu](https://amey.live)
+* 💁 Hit me up with a PR or visit [Amey Sunu](https://amey.me)
 
 
 ### Find me over the web🌎
-* 🌐 [Amey Sunu](https://amey.live)
+* 🌐 [Amey Sunu](https://amey.me)
 * 🐦 Find me on [Twitter](https://twitter.com/ameysunu), of course there is no twitter bird emoji smh.
 * 😺 Hit me up at [Dev Community](http://dev.to/ameysunu)
 * 📋 Blog @ [Grail Street](https://ameyblog.co)
