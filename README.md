@@ -1,6 +1,6 @@
 ## Hey, I'm Amey :wave:  :man_technologist:
 
-### I'm a human and I make cross-platform mobile apps for both Android and iOS.
+### I'm a Software Engineer and I make cross-platform mobile apps for both Android and iOS.
 
   <!-- *Write once, deploy on multiple platforms*
   <br>
@@ -10,15 +10,15 @@
 
 ### What exactly do I do:
 * 🖥️ Develop applications on Flutter and SwiftUI
-* 🔬 Build, test and deliver Flutter mobile apps using Codemagic
-* 🍁 Looking for collaborations on Dart or Swift
+* 🔬 Build, test and deliver Flutter mobile apps using Codemagic CI, Github Actions
+* 🍁 Looking for collaborations on Dart, Swift or React
 * ✈️ Favorite travel destination is Documentation
-* 🙏 Learning React and Redux with TypeScript
-* 💁 Hit me up with a PR or visit [Amey Sunu](https://amey.me)
+* 🙏 Learning C# and .NET
+* 💁 Hit me up with a PR or visit [Amey Sunu](https://ameysunu.github.io)
 
 
 ### Find me over the web🌎
-* 🌐 [Amey Sunu](https://amey.me)
+* 🌐 [Amey Sunu](https://ameysunu.github.io)
 * 🐦 Find me on [Twitter](https://twitter.com/ameysunu), of course there is no twitter bird emoji smh.
 * 😺 Hit me up at [Dev Community](http://dev.to/ameysunu)
-* 📋 Blog @ [Grail Street](https://ameyblog.co)
+* 📋 Blog @ [Grail Street](https://quiet-cranachan-9703db.netlify.app/)
