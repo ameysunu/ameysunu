@@ -24,4 +24,4 @@
 * 📋 Blog @ [Grail Street](https://quiet-cranachan-9703db.netlify.app/)
 
 ### Listening to: 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kca3p5csb417j20m92lzqlw1e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kca3p5csb417j20m92lzqlw1e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
