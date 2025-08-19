@@ -1,5 +1,7 @@
 ## Hey, I'm Amey :wave:  :man_technologist:
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤-ff69b4)](https://github.com/sponsors/ameysunu)
+
 ### I'm a Software Engineer and I make cross-platform mobile apps for both Android and iOS.
 
   <!-- *Write once, deploy on multiple platforms*
